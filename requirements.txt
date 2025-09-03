@@ -12,7 +12,6 @@ tavily-python
 azure-cognitiveservices-speech
 
 # Retrieval helpers used by retrievers
-arxiv
 wikipedia
 
 # Media merge helper
@@ -20,3 +19,6 @@ imageio-ffmpeg
 
 # Notebook niceties
 ipython
+
+requests==2.32.4
+
